@@ -2,7 +2,7 @@
 <br><br>
 bash script for linux
 <br><br>
-It plays 3 layered "flac" sound files to create a very nice fire sound indefinitely until "CTRL-C" is pressed at any time.
+It plays layered "flac" sound files to create a very nice fire sound indefinitely until "CTRL-C" is pressed at any time.
 <br><br>
 install "ffmpeg" first:
 <br><br>
