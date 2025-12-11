@@ -10,6 +10,6 @@ install "ffmpeg" first:
 <br><br>
 To run:
 <br><br>
-"bash Pluvia.sh"
+"bash FlammaX.sh"
 <br><br>
 Thank you!
